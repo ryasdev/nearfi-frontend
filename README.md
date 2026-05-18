@@ -1,2 +1,2 @@
 # NearFi
-Distributed proximity service with geohash-based spatial indexing, database sharding, and read replicas.
+NearFi frontend — interactive map-based UI for geo-search, built with React, TypeScript, Zustand, TanStack Query, and MapLibre GL.
